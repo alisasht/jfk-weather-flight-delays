@@ -1,4 +1,4 @@
-# Weather & Flight Delays at JFK Airport
+# The Impact of Weather on Flight Delays
 
 ## The Problem
 Flight delays are not just an inconvenience — they represent 
@@ -44,7 +44,7 @@ Transportation Statistics — On-Time Reporting Carrier Performance.
 - **Delay rate:** 24.4% (train) | 20.3% (test)
 
 To reproduce: download data filtered to New York state from 
-[BTS](https://www.transtats.bts.gov/), select fields listed in 
+[BTS](https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvzr), select fields listed in 
 `data/README.md`, and place CSVs in the `/data` folder.
 
 ## Key Findings
