@@ -1,0 +1,20 @@
+# Data files
+*.csv
+*.xlsx
+*.parquet
+
+# Exceptions - sample files to include
+!data/sample_train_Jan2022.csv
+!data/sample_test_Jan2025.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+
+# Mac system files
+.DS_Store
